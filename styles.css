@@ -7,6 +7,7 @@ header {
     align-items: center;
     background-color: #E2C4F6;
     height: 150px;
+    background-image: linear-gradient(to bottom #E2C4F6 #336885);
 }
 header img {
     height: 150px;
@@ -47,6 +48,9 @@ figure {
     border-bottom-right-radius: 250px;
     border-bottom-left-radius: 110px;
 }
+
+
+
 .gimg2 {
     object-position: center 40%;
 }
